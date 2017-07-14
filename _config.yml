@@ -6,12 +6,12 @@ description: Portfolio by Matthew Pretty<br /> HTML, CSS, JS and more...
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author: Matthew Pretty
-street_address: 63 Briar road
+street_address: 63 Briar Road
 city: Harleston
 state: Norfolk
 zip_code: IP20 9HT
 country: United Kingdom
-phone: 
+phone: 01379853529
 
 # homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
