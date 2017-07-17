@@ -3,7 +3,7 @@ title: Portfolio
 subtitle: Website by Matthew Pretty
 email: matthewjpretty@gmail.com
 description: Portfolio by Matthew Pretty<br /> HTML, CSS, JS and more...
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+baseurl: "/portfolio" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author: Matthew Pretty
 street_address: 63 Briar Road
